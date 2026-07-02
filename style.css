@@ -12,6 +12,7 @@ img {
 
 h1 {
     margin-bottom: 5px;
+    color: blue;
 }
 
 h2 {
@@ -26,3 +27,8 @@ p {
 button:hover {
     background-color: lightblue;
 }
+
+button {
+    padding: 15px 30px;
+}
+
