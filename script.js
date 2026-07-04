@@ -6,3 +6,7 @@ emailBtn.addEventListener("click", function () {
 
 const gitHubBtn = document.getElementById("GitHub");
 
+gitHubBtn.addEventListener("click", function () {
+    window.location.href = "https://github.com/Najoule";
+});
+
